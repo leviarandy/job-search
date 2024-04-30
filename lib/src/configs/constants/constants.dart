@@ -1,0 +1,1 @@
+// Define module's global constants here

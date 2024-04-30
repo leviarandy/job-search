@@ -1,0 +1,1 @@
+export 'portal_module_localizations.dart';

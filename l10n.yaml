@@ -1,0 +1,7 @@
+arb-dir: assets/l10n
+template-arb-file: module_en.arb
+output-localization-file: portal_module_localizations.dart
+output-class: PortalLocalizations
+output-dir: lib/gen/l10n
+synthetic-package: false
+nullable-getter: false
